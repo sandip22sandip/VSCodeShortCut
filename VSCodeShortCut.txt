@@ -1,0 +1,57 @@
+## Open Project with Terminal:-
+code ProjectName
+
+## Switch Code Tab:-
+1, 2, 3 in Sequence:-
+Alt + 1 / Alt + 2 / Alt + 3
+
+## Open File:-
+Cntrl + p
+
+## Close One File:-
+Cntrl + w
+
+## Close all the Files:-
+Cntrl + k + w
+
+## Toogle Left Sidebar:-
+Cntrl + b
+
+## Open Terminal in VS Code:-
+Cntrl + `
+
+## Jump to Words in same Line:-
+Cntrl + Arrow Buttons
+
+## Select Text:-
+Shift + Arrow Buttons / Cntrl + Shift + Arrow Buttons
+
+## Delete / Copy /Comment Line of Cursor:-
+Cntrl + x / Cntrl + c / Cntrl + /
+
+## Paste the Selected area:-
+Alt + Shift + Arrow 
+
+## Find & Replace:-
+Cntrl + h
+
+## Write at multiple Line simultanious:-
+Hold Alt & Click to that next word
+
+## Move Line to Upper / Lower:-
+Alt + Arrow (Up / Down)
+
+## Reach Functions / Variable speedily on same File:-
+Cntrl + Shift + o
+
+## Reach to Some Line Number:-
+Cntrl + g
+
+
+
+
+
+
+
+
+
